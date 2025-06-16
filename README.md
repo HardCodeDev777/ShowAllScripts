@@ -1,6 +1,6 @@
 # ShowAllScripts
 
-"Test" project to work with [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference).
+Test project to work with [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference).
 
 &nbsp;
 With this tool you can see all scripts in your project and total count of them. Go to **HardCodeDev/AllScriptsShow**
