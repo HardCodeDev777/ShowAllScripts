@@ -1,6 +1,6 @@
 # ShowAllScripts
 
-With this tool you can see all scripts in your project and total count of them. Go to **HardCodeDev/AllScriptsShow**
+With this tool you can see all scripts in your project and total count of them. 
 
 ---
 
